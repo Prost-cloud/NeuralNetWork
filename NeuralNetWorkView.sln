@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeuralNetWorkView", "NeuralNetWorkView\NeuralNetWorkView.csproj", "{78116C02-7A94-48F4-A428-9FFDD607358E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeuralNewwork", "..\NeuralNewwork\NeuralNewwork\NeuralNewwork.csproj", "{C17A2B04-95C6-4B87-AD09-5E8D42F0D589}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{78116C02-7A94-48F4-A428-9FFDD607358E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78116C02-7A94-48F4-A428-9FFDD607358E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78116C02-7A94-48F4-A428-9FFDD607358E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C17A2B04-95C6-4B87-AD09-5E8D42F0D589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C17A2B04-95C6-4B87-AD09-5E8D42F0D589}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C17A2B04-95C6-4B87-AD09-5E8D42F0D589}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C17A2B04-95C6-4B87-AD09-5E8D42F0D589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
