@@ -37,6 +37,7 @@ namespace NeuralNetwork.Network
                 }
             }
         }
+      
         public NeuralNetwork(double learningRate, Func<double, double> activation, Func<double, double> derivative, params int[] sizes) : this(learningRate, sizes)
         {
             _activation = activation;
